@@ -1,7 +1,5 @@
 languageCode = 'en-us'
 title = 'Furqan Abid'
-theme = "PaperMod"
-
 # baseURL = "https://examplesite.com/"
 paginate = 5
 theme = "PaperMod"
